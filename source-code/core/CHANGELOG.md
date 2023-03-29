@@ -1,5 +1,11 @@
 # @inlang/core
 
+## 0.5.3
+
+### Patch Changes
+
+- 6bf22450: add the option to copy multiple directories for a `mockEnvironment`
+
 ## 0.5.1
 
 ## 0.5.0

@@ -1,5 +1,13 @@
 # @inlang/website
 
+## 0.5.3
+
+### Patch Changes
+
+- Updated dependencies [6bf22450]
+  - @inlang/core@0.5.3
+  - @inlang/git-sdk@0.5.3
+
 ## 0.5.1
 
 ### Patch Changes
